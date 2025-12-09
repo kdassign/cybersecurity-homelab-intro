@@ -7,6 +7,6 @@ Hi, my name is Kelsey. I’m an IT Technician with goals to get her foot into th
 
 I told him I was working on my second Bachelor's degree in Cybersecurity and Information Assurance and that my goal was to become a SOC Analyst. My biggest challenge was figuring out how to gain real hands-on experience. That's when he introduced me to homelabbing, something he was passionate about and that I had never heard of before. He started listing off subreddits I could visit to learn more: r/homelab, r/homelabs, r/minilab. It was a whole new world I was about to submerge myself in.
 
-As our conversation wrapped up, he mentioned he had a Dell R320 server I could purchase from him for $200. It already had 6TB of storage; all I needed to do was upgrade the RAM. So I did.
+As our conversation wrapped up, he mentioned he had a Dell PowerEdge server I could purchase from him for $200. It already had 6TB of storage; all I needed to do was upgrade the RAM. So I did.
 
 And now we're here. Follow along as I document my journey learning more about the world of cybersecurity.
